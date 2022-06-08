@@ -17,7 +17,7 @@
 		<java.version>1.8</java.version>
         <!--Put your own  properties-->
         <repository-owner>chtrembl</repository-owner>
-        <repository-name>azure-cloud</repository-name>
+        <repository-name>commons-infected</repository-name>
         <branch-name>main</branch-name>
         <github.global.server>github</github.global.server>
         <maven.compiler.source>8</maven.compiler.source>
